@@ -14,16 +14,18 @@
 
 ### 1.3 Guard Statement
 - Be able to identify the benefits of using `guard` of using a typical `else-if`
-- **Quiz:** Create a function that contains a guard statement which checkcs whether you are providing good nutrients for platns. If not, warn the owner of the platn by printing a message. 
+- **Quiz:** Create a function that contains a guard statement which checkcs whether the user is providing good nutrients for platns. 
 
 ### 1.4 Observer and Computed Property
 - Be able to justify the usage case of using property observers by applying `willSet` and `didSet`
 - **Quiz:** Add an property observer to `isUserLoggedIn` and prints whether the user is logged in or not. 
-- Be able to recognize the difference between `get` and `set` by calculating the number of a diameter
+- Be able to recognize the difference between `get` and `set` by calculating the diameter of a circle. 
 - Be able to identify benefits of using `get` only properties
-- **Quiz:** There is a stored property called, `sideLength`. Create a function that calculates the area of a square.  
+- **Quiz:** There is a stored property, `sideLength`. Create a function that calculates the area of a square.  
 
 ### 1.5 Swift Acccess Control 
+- Be able to identify the 5 level of Swift Access Control 
+- Be able to understand the motivation behind Access Control
 
 ## Session 3: Intro to Swift Functions
 
