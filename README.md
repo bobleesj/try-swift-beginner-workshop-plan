@@ -1,6 +1,9 @@
 # Swift Beginner Workshop try! Swift @Bangalore
 > **Purpose:** The workshop is designed for software developers with prior experience in languages such as `Java`, `Objective-C`, and `Javasript`. The outcome of this workshop is to help the participants familiarize with the unique features and syntax of the Swift Programming Langauge by learning its unconventional approaches to solve design problems such as protocol oriented, value oriented, and functional programming. The participants are expected to be ready for the main event on Nov 17th. To make the workshop interactive and engaging, throughout the session, each topic contains a real-life applicable quiz/problem which the participatns solve on their own. Shorlty after, I will go through the problem. 
 
+<br>
+<br>
+
 ## Session 1: Swift Fundamentals
 
 ### 1.1 Types
@@ -31,6 +34,9 @@
 - Be able to identify the 5 level of Swift Access Control: `private`, `fileprivate`, `internal`, `public`, `open`. 
 - Be able to understand the motivation behind Access Control
 
+<br>
+<br>
+
 ## Session 3: Intro to Swift Functions
 ### 3.1 Intro to Closures Part 1
 - Be able to identify the portability aspect of closures 
@@ -55,6 +61,8 @@
 
 > **Quiz:**
 
+<br>
+<br>
 
 ## Session 4: Functional Swift
 
@@ -64,12 +72,18 @@
 - 
 - **Quiz:** Create a `map` function. 
 
+<br>
+<br>
+
 ## Session 7: Getting Started with Swift Enums
 ### 7.1 Normal Type
 
 ### 7.2 Raw Value
 
 ### 7.3 Associated Value
+
+<br>
+<br>
 
 ## Session 9: Intro to Swift Memory Management
 ### 9.1 Swift Capture List
