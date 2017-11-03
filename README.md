@@ -24,15 +24,29 @@
 - **Quiz:** There is a stored property, `sideLength`. Create a function that calculates the area of a square.  
 
 ### 1.5 Swift Acccess Control 
-- Be able to identify the 5 level of Swift Access Control 
+- Be able to identify the 5 level of Swift Access Control: `private`, `fileprivate`, `internal`, `public`, `open`. 
 - Be able to understand the motivation behind Access Control
 
 ## Session 3: Intro to Swift Functions
-### 3.1 Intro to Closures Syntax
+### 3.1 Intro to Closures Part 1
+- Be able to identify the portability aspect of closures 
+- Be able to recognzie swift functions are called global closures 
+- Be able to familiarize with the Swift closure syntax. 
+- Be able to express functions using closures
+- **Quiz:** 
 
-### 3.2 Trailing Closures
+### 3.2 Intro to Closures Part 2
+- Be able to pass a closure block to a closure 
+- Be able to return a closure using a closure
+- Be able to understand the meaning of higher-order function
+- **Quiz:** 
 
-### 3.3 Completion Handlers 
+### 3.3 Trailing Closures
+- 
+
+### 3.4 Completion Handlers 
+- Be able to understand how callback/completion handler works
+- **Quiz:**
 
 
 ## Session 4: Functional Swift
