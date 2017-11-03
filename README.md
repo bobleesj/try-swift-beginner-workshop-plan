@@ -10,11 +10,11 @@
 ### 1.2 Intro to Functions
 - Be able to create functions with and without arguments
 - Be able to learn the motivation of using local parameters
-- **Quiz:** Create a function that multiples two numbers with one unnamed parameter. 
+> **Quiz:** Create a function that multiples two numbers with one unnamed parameter. 
 
 ### 1.3 Guard Statement
 - Be able to identify the benefits of using `guard` of using a typical `else-if`
-- **Quiz:** Create a function that contains a guard statement which checkcs whether the user is providing good nutrients for plants. 
+> **Quiz:** Create a function that contains a guard statement which checkcs whether the user is providing good nutrients for plants. 
 
 ### 1.4 Observer and Computed Property
 - Be able to justify the usage case of using property observers by applying `willSet` and `didSet`
