@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='01-closures'/>
+        <page name='Session3-Funtional'/>
+        <page name='02_trailing_closures'/>
+        <page name='03_completion_handlers'/>
+    </pages>
+</playground>

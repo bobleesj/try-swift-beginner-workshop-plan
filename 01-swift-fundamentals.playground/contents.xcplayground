@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='012_guard'/>
+        <page name='011_functions'/>
+        <page name='010_types'/>
+        <page name='013_static_class_property'/>
+        <page name='015_access_control'/>
+        <page name='014_observer_computed_properties'/>
+    </pages>
+</playground>
