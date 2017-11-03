@@ -2,7 +2,6 @@
  ## Session 9: Intro to Swift Memory Management
  ### 9.2 Introduction to Automatic Reference Counting
  - Be able to how allocation/deallocation is managed by the ARC
- - Be able to differentiate between `weak` and `unowned`
  */
 
 //: Design Passport
