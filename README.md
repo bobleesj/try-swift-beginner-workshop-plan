@@ -13,4 +13,4 @@
 
 
 > **Note:** Intermediate to advanced topics including [the delegate pattern](https://www.bobthedeveloper.io/blog/the-complete-understanding-of-swift-delegate-and-data-source), [lazy init with closure](https://www.bobthedeveloper.io/blog/swift-lazy-initialization-with-closures), [@escaping](https://www.andrewcbancroft.com/2017/04/26/what-in-the-world-is-an-escaping-closure-in-swift/
-), @autoclosures are not covered. 
+), @autoclosures are not covered in this workshop. However, the participants are encouraged to study on their own and ask questions via Slack before the conference. 
