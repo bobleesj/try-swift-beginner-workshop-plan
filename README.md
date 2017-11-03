@@ -1,5 +1,4 @@
-# try-swift-beginner-workshop-plan
-Swift Robot Workshop try! Swift @Bangalore 
+# Swift Beginner Workshop try! Swift @Bangalore
 
 ## Session 1 Swift Fundamentals
 
