@@ -1,5 +1,5 @@
 # Swift Beginner Workshop try! Swift @Bangalore
-> **Purpose:** The workshop is designed for those who already have programming experience in other languages such as `Java`, `Objective-C`, and `Javasript`. The outcome of this workshop is to help the participants familiarize the  unique features of the Swift Programming Langauge by learning its unconventional approaches to solve design problems such as protocol oriented, value riented, and functional programming. The participants are expected to be ready for the main event on Nov 17th. To make the workshop interactive and engaging, each topic contains a quiz/problem for the participants to apply what has learned. Shorlty after, I will go through the problem. 
+> **Purpose:** The workshop is designed for those who already have programming experience in other languages such as `Java`, `Objective-C`, and `Javasript`. The outcome of this workshop is to help the participants familiarize with the unique features of the Swift Programming Langauge by learning its unconventional approaches to solve design problems such as protocol oriented, value riented, and functional programming. The participants are expected to be ready for the main event on Nov 17th. To make the workshop interactive and engaging, each topic contains a quiz/problem for the participants to apply what has learned. Shorlty after, I will go through the problem. 
 
 ## Session 1 Swift Fundamentals
 
@@ -10,11 +10,18 @@
 ### 1.2 Intro to Functions
 - Be able to create functions with and without arguments
 - Be able to learn the motivation of using local parameters
-- **Quiz:** Create a function that multiples two numbers with one unamed parameter. 
+- **Quiz:** Create a function that multiples two numbers with one unnamed parameter. 
 
 ### 1.3 Guard Statement
+- Be able to identify the benefits of using `guard` of using a typical `else-if`
+- **Quiz:** Create a function that contains a guard statement which checkcs whether you are providing good nutrients for platns. If not, warn the owner of the platn by printing a message. 
 
 ### 1.4 Observer and Computed Property
+- Be able to justify the usage case of using property observers by applying `willSet` and `didSet`
+- **Quiz:** Add an property observer to `isUserLoggedIn` and prints whether the user is logged in or not. 
+- Be able to recognize the difference between `get` and `set` by calculating the number of a diameter
+- Be able to identify benefits of using `get` only properties
+- **Quiz:** There is a stored property called, `sideLength`. Create a function that calculates the area of a square.  
 
 ### 1.5 Swift Acccess Control 
 
