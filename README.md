@@ -1,7 +1,7 @@
 # Swift Beginner Workshop try! Swift @Bangalore
-> **Purpose:** The workshop is designed for those who already have programming experience in other languages such as `Java`, `Objective-C`, and `Javasript`. The outcome of this workshop is to help the participants familiarize with the unique features of the Swift Programming Langauge by learning its unconventional approaches to solve design problems such as protocol oriented, value oriented, and functional programming. The participants are expected to be ready for the main event on Nov 17th. To make the workshop interactive and engaging, each topic contains a real-life applicable quiz/problem which the participatns work on. Shorlty after, I will go through the problem. 
+> **Purpose:** The workshop is designed for those who already have programming experience in other languages such as `Java`, `Objective-C`, and `Javasript`. The outcome of this workshop is to help the participants familiarize with the unique features of the Swift Programming Langauge by learning its unconventional approaches to solve design problems such as protocol oriented, value oriented, and functional programming. The participants are expected to be ready for the main event on Nov 17th. To make the workshop interactive and engaging, throughout the session, each topic contains a real-life applicable quiz/problem which the participatns solve on their own. Shorlty after, I will go through the problem. 
 
-## Session 1 Swift Fundamentals
+## Session 1: Swift Fundamentals
 
 ### 1.1 Types
 - Be able to identify mutable and immutable value types with `let` and `var`
