@@ -1,5 +1,5 @@
 # Swift Beginner Workshop try! Swift @Bangalore
-**Purpose:** The workshop is designed for those who already have programming experience in other languages such as `Java`, `Objective-C`, and `Javasript`. The outcome of this workshop is to help the participants familiarize the  unique features of the Swift Programming Langauge by learning its unconventional approaches to solve design problems such as protocol oriented, value riented, and functional programming. The participants are expected to be ready for the main event on Nov 17th. 
+> **Purpose:** The workshop is designed for those who already have programming experience in other languages such as `Java`, `Objective-C`, and `Javasript`. The outcome of this workshop is to help the participants familiarize the  unique features of the Swift Programming Langauge by learning its unconventional approaches to solve design problems such as protocol oriented, value riented, and functional programming. The participants are expected to be ready for the main event on Nov 17th. 
 
 ## Session 1 Swift Fundamentals
 
