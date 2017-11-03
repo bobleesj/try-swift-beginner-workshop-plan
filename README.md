@@ -25,7 +25,12 @@
 - Be able to identify benefits of using `get` only properties
 > **Quiz:** There is a stored property, `sideLength`. Create a function that calculates the area of a square.  
 
-### 1.5 Swift Acccess Control 
+### 1.5 Staic and Class 
+- Be able to identify the practical usage of static methods and properties 
+- Be able to distinguish between `staitc` and `class` when it comes to inheritance
+> **Quiz:** Create a class that stores your contact list using `static` properties. 
+
+### 1.6 Swift Acccess Control 
 - Be able to identify the 5 level of Swift Access Control: `private`, `fileprivate`, `internal`, `public`, `open`. 
 - Be able to understand the motivation behind Access Control
 
