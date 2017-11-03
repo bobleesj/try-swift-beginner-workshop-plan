@@ -12,9 +12,8 @@
 
 ### 1.2 Intro to Functions
 - Be able to create functions with and without arguments
-- Be able to identify the benefits of using local parameters
-
-*Quiz:(
+- Be able to understand when to use local parameters
+- **Quiz:** Create a function called that applies two numbers with unamed parameter. 
 
 ### 1.3 Guard Statement
 
