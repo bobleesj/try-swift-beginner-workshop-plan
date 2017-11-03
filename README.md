@@ -18,7 +18,7 @@
 
 ### 1.4 Observer and Computed Property
 - Be able to justify the usage case of using property observers by applying `willSet` and `didSet`
-- **Quiz:** Add an property observer to `isUserLoggedIn` and prints whether the user is logged in or not. 
+- **Quiz:** Add an property observer to `isUserLoggedIn` and prints whether the user is logged in or not upon changes. 
 - Be able to recognize the difference between `get` and `set` by calculating the diameter of a circle. 
 - Be able to identify benefits of using `get` only properties
 - **Quiz:** There is a stored property, `sideLength`. Create a function that calculates the area of a square.  
@@ -28,12 +28,33 @@
 - Be able to understand the motivation behind Access Control
 
 ## Session 3: Intro to Swift Functions
+### 3.1 Intro to Closures Syntax
+
+### 3.2 Trailing Closures
+
+### 3.3 Completion Handlers 
+
 
 ## Session 4: Functional Swift
 
+### 4.1 Intro to Functional Swift
+- 
+### 4.2 Filter
+- 
+- **Quiz:** Create a `map` function. 
+
 ## Session 7: Getting Started with Swift Enums
+### 7.1 Normal Type
+
+### 7.2 Raw Value
+
+### 7.3 Associated Value
 
 ## Session 9: Intro to Swift Memory Management
+### 9.1 Swift Capture List
+
+### 9.2 Weak and Unowned
+
 
 
 > **Note:** Intermediate to advanced topics including [the delegate pattern](https://www.bobthedeveloper.io/blog/the-complete-understanding-of-swift-delegate-and-data-source), [lazy init with closure](https://www.bobthedeveloper.io/blog/swift-lazy-initialization-with-closures), [@escaping](https://www.andrewcbancroft.com/2017/04/26/what-in-the-world-is-an-escaping-closure-in-swift/
