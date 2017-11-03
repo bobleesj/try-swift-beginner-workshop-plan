@@ -7,7 +7,7 @@
 ## Session 1: Swift Fundamentals
 ### 1.1 Types
 - Be able to identify mutable and immutable value types with `let` and `var`
-- Be able to understand what `type` means by refeering to `class` and `struct`.
+- Be able to understand what `type` means by referring to `class` and `struct`.
 
 ### 1.2 Intro to Functions
 - Be able to create functions with and without arguments.
@@ -16,18 +16,18 @@
 
 ### 1.3 Guard Statement
 - Be able to identify the benefits of using `guard` over a typical `else-if` statement. 
-> **Quiz:** Create a function that contains a guard statement which checkcs whether the user is providing good nutrients for plants.
+> **Quiz:** Create a function that contains a guard statement which checks whether the user is providing good nutrients for plants.
 
 ### 1.4 Observer and Computed Property
 - Be able to justify the usage case of using property observers by applying `willSet` and `didSet`.
-> **Quiz:** Add an property observer to `isUserLoggedIn` and prints whether the user is logged in or not upon changes.
+> **Quiz:** Add a property observer to `isUserLoggedIn` and prints whether the user is logged in or not upon changes.
 - Be able to recognize the difference between `get` and `set` by calculating the diameter of a circle.
 - Be able to identify benefits of using `get` only properties
 > **Quiz:** There is a stored property, `sideLength`. Create a function that calculates the area of a square.  
 
-### 1.5 Staic and Class
+### 1.5 Static and Class
 - Be able to identify the practical usage of static methods and properties.
-- Be able to distinguish between `staitc` and `class` when it comes to inheritance.
+- Be able to distinguish between `static` and `class` when it comes to inheritance.
 > **Quiz:** Create a class that stores your contact list using `static` properties.
 
 <br>
@@ -43,7 +43,7 @@
 ### 3.2 Intro to Closures Part 2
 - Be able to return a closure block.
 - Be able to pass a closure block as a parameter.
-> **Quiz:** Enter a number and returns its sqaured value. The function two arguments: `Int` and `(Int) -> (Int)`
+> **Quiz:** Enter a number and returns its squared value. The function two arguments: `Int` and `(Int) -> (Int)`
 
 ### 3.3 Completion Handlers
 - Be able to execute code only after one another using closures.
