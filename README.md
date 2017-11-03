@@ -11,7 +11,7 @@
 
 ### 1.2 Intro to Functions
 - Be able to create functions with and without arguments
-- Be able to learn the motivation of using local parameters
+- Be able to identify the motivation behind local parameters.
 > **Quiz:** Create a function that multiples two numbers with one unnamed parameter. 
 
 ### 1.3 Guard Statement
@@ -29,10 +29,6 @@
 - Be able to identify the practical usage of static methods and properties 
 - Be able to distinguish between `staitc` and `class` when it comes to inheritance
 > **Quiz:** Create a class that stores your contact list using `static` properties. 
-
-### 1.6 Swift Acccess Control 
-- Be able to identify the 5 level of Swift Access Control: `private`, `fileprivate`, `internal`, `public`, `open`. 
-- Be able to understand the motivation behind Access Control
 
 <br>
 <br>
@@ -88,4 +84,4 @@
 
 
 > **Note:** Intermediate to advanced topics including [the delegate pattern](https://www.bobthedeveloper.io/blog/the-complete-understanding-of-swift-delegate-and-data-source), [lazy init with closure](https://www.bobthedeveloper.io/blog/swift-lazy-initialization-with-closures), [@escaping](https://www.andrewcbancroft.com/2017/04/26/what-in-the-world-is-an-escaping-closure-in-swift/
-), @autoclosures are not covered in this workshop. However, the participants are encouraged to study on their own and ask questions via Slack before the main event. 
+), @autoclosures, [access control](https://www.bobthedeveloper.io/blog/the-complete-understanding-of-access-control-in-swift) are not covered in this workshop. However, the participants are encouraged to study on their own and ask questions via Slack before the main event. 
