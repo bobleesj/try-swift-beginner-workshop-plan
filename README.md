@@ -14,7 +14,7 @@
 
 ### 1.3 Guard Statement
 - Be able to identify the benefits of using `guard` of using a typical `else-if`
-- **Quiz:** Create a function that contains a guard statement which checkcs whether the user is providing good nutrients for platns. 
+- **Quiz:** Create a function that contains a guard statement which checkcs whether the user is providing good nutrients for plants. 
 
 ### 1.4 Observer and Computed Property
 - Be able to justify the usage case of using property observers by applying `willSet` and `didSet`
