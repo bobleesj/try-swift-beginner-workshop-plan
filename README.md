@@ -1,5 +1,5 @@
 # Swift Beginner Workshop try! Swift @Bangalore
-**Purpose:** The workshop is designed for those who already have programming experience in other languages such as Java, Objective-C, and Javasript. The participants are expected to be familiar with Object Orietned Programming. The purpose of this workshop is quickly introduce the participants the unique features of the Swift Programming Langauge by focusing on some of its unconventional approaches to solve problems including Protocol Oriented, Value Oriented with enums, and functional programming. 
+**Purpose:** The workshop is designed for those who already have programming experience in other languages such as `Java`, `Objective-C`, and `Javasript` and understand the principle of Object Oriented Programming. The outcome of this workshop is to help the participants familize the  unique features of the Swift Programming Langauge by focusing on some of its unconventional approaches to solve problems including Protocol Oriented, Value Oriented with enums, and functional programming so that they are ready for the main event on Nov 17th. 
 
 ## Session 1 Swift Fundamentals
 
