@@ -10,24 +10,24 @@
 - Be able to understand what `type` means by refeering to `class` and `struct`.
 
 ### 1.2 Intro to Functions
-- Be able to create functions with and without arguments
+- Be able to create functions with and without arguments.
 - Be able to identify the motivation behind local parameters.
 > **Quiz:** Create a function that multiples two numbers with one unnamed parameter.
 
 ### 1.3 Guard Statement
-- Be able to identify the benefits of using `guard` of using a typical `else-if`
+- Be able to identify the benefits of using `guard` over a typical `else-if` statement. 
 > **Quiz:** Create a function that contains a guard statement which checkcs whether the user is providing good nutrients for plants.
 
 ### 1.4 Observer and Computed Property
-- Be able to justify the usage case of using property observers by applying `willSet` and `didSet`
+- Be able to justify the usage case of using property observers by applying `willSet` and `didSet`.
 > **Quiz:** Add an property observer to `isUserLoggedIn` and prints whether the user is logged in or not upon changes.
 - Be able to recognize the difference between `get` and `set` by calculating the diameter of a circle.
 - Be able to identify benefits of using `get` only properties
 > **Quiz:** There is a stored property, `sideLength`. Create a function that calculates the area of a square.  
 
 ### 1.5 Staic and Class
-- Be able to identify the practical usage of static methods and properties
-- Be able to distinguish between `staitc` and `class` when it comes to inheritance
+- Be able to identify the practical usage of static methods and properties.
+- Be able to distinguish between `staitc` and `class` when it comes to inheritance.
 > **Quiz:** Create a class that stores your contact list using `static` properties.
 
 <br>
@@ -38,18 +38,18 @@
 - Be able to recognize that Swift functions are called global closures.
 - Be able to familiarize with the Swift closure syntax.
 - Be able to create a closure block with various versions.
-> **Quiz:** Express the function below in a variety of ways
+> **Quiz:** Express the function below in a variety of ways.
 
 ### 3.2 Intro to Closures Part 2
-- Be able to return a closure block
-- Be able to pass a closure block as a parameter
+- Be able to return a closure block.
+- Be able to pass a closure block as a parameter.
 > **Quiz:** Enter a number and returns its sqaured value. The function two arguments: `Int` and `(Int) -> (Int)`
 
 ### 3.3 Completion Handlers
-- Be able to execute code only after one another using closures
+- Be able to execute code only after one another using closures.
 
 ### 3.4 Trailing Closures
-- Be able to spot when to use trailing closures
+- Be able to spot when to use trailing closures.
 
 
 <br>
@@ -62,10 +62,10 @@
 - Be able to recognize the difference between imperative and declarative style.
 - Be able to use closure to create a custom `filter` function.
 
-- **Quiz:** Create a function that converts `[1, 2, 3, 4, 5]` to `[1, 4, 9, 16, 25]` in one line
+- **Quiz:** Create a function that converts `[1, 2, 3, 4, 5]` to `[1, 4, 9, 16, 25]` in one line.
 
 ### 4.2 Map
-- Be able to `[1, 2, 3, 4, 5]` to `[1, 4, 9, 16, 25]` in one line
+- Be able to `[1, 2, 3, 4, 5]` to `[1, 4, 9, 16, 25]` in one line.
 
 <br>
 <br>
@@ -93,10 +93,10 @@
 - Be able to use capture lists to prevent the unique behavior.
 
 ### 9.2 Intro to Automatic Reference Counting
-- Be able to how allocation/deallocation is managed by the `ARC`
+- Be able to how allocation/deallocation is managed by the `ARC`.
 
 ### 9.3 The difference between `weak` and `unowned`
-- Be able to differentiate between weak and unowned
+- Be able to differentiate between weak and unowned.
 
 
 > **Note:** Intermediate to advanced topics including [the delegate pattern](https://www.bobthedeveloper.io/blog/the-complete-understanding-of-swift-delegate-and-data-source), [lazy init with closure](https://www.bobthedeveloper.io/blog/swift-lazy-initialization-with-closures), [@escaping](https://www.andrewcbancroft.com/2017/04/26/what-in-the-world-is-an-escaping-closure-in-swift/
