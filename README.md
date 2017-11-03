@@ -18,10 +18,14 @@
 
 ### 1.4 Observer and Computed Property
 - Be able to justify the usage case of using property observers by applying `willSet` and `didSet`
-- **Quiz:** Add an property observer to `isUserLoggedIn` and prints whether the user is logged in or not upon changes. 
+
+> **Quiz:** Add an property observer to `isUserLoggedIn` and prints whether the user is logged in or not upon changes. 
+
+
 - Be able to recognize the difference between `get` and `set` by calculating the diameter of a circle. 
 - Be able to identify benefits of using `get` only properties
-- **Quiz:** There is a stored property, `sideLength`. Create a function that calculates the area of a square.  
+
+> **Quiz:** There is a stored property, `sideLength`. Create a function that calculates the area of a square.  
 
 ### 1.5 Swift Acccess Control 
 - Be able to identify the 5 level of Swift Access Control: `private`, `fileprivate`, `internal`, `public`, `open`. 
@@ -33,20 +37,23 @@
 - Be able to recognzie swift functions are called global closures 
 - Be able to familiarize with the Swift closure syntax. 
 - Be able to express functions using closures
-- **Quiz:** 
+
+> **Quiz:** 
 
 ### 3.2 Intro to Closures Part 2
 - Be able to pass a closure block to a closure 
 - Be able to return a closure using a closure
 - Be able to understand the meaning of higher-order function
-- **Quiz:** 
+
+> **Quiz:** 
 
 ### 3.3 Trailing Closures
 - 
 
 ### 3.4 Completion Handlers 
 - Be able to understand how callback/completion handler works
-- **Quiz:**
+
+> **Quiz:**
 
 
 ## Session 4: Functional Swift
